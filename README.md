@@ -4,6 +4,15 @@
   
 我想知道最近是否有人在修改 CEF Fonts CJK 以衍生新的字体，比如修改字形使其符合港台或者日本标准。如果有人做了，那我就不需要再费力了。谢谢。  
 I wonder that is there someone modifying CEF Fonts CJK, for example, changing glyphs to match standards in Hongkong, Taiwan or Japan? If so, I will not do the same work. Thanks a lot.  
+
+## 关于此fork
+发现与思源黑体的常规字重相比原版的CEF Fonts CJK的常规字重太细~~狗~~了，于是机械加粗了一下  
+使用`FontCreator`软件对原文件生成。
+### FontCreator-字形变换器-效果-加粗
+
+| 字重 | 加粗参数 |
+|:------:|:-----:|
+| Regular | 40,40 |
   
 #### CEF Fonts CJK是一个完全用鼠标构建字形的“仿”手写体。目前版本为正式版（最新版本号：Release 2.16）。  
   
